@@ -1,4 +1,4 @@
-# BitcoinAdaptiveMiningAlgo
+# Bitcoin Adaptive Mining Algorithm
 Bitcoin Adaptive Mining Algorithm
 
 A simplified example of a Bitcoin miner using an adaptive algorithm. This example will be more of a conceptual demonstration rather than a fully optimized mining solution.
